@@ -1,0 +1,153 @@
+body{
+    background-color:rgb(242, 57, 109);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box{
+    margin: 30px;
+    padding: 35px;
+}
+
+.box1{
+    height: 550px;
+    width: 150px;
+    background-color:rgb(172, 6, 6);
+    border-radius: 10px;
+    
+
+}
+.box1 h2{
+    text-align: center;
+    color: azure;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 0;
+}
+.Day{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    
+    margin: 10px 5px;
+    cursor: pointer;
+    padding: 10px 0px;
+  
+  
+  }
+  .Day a{
+      text-decoration: none;
+      color: black;
+  }
+  .Day2{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    
+    margin: 5px 5px;
+    cursor: pointer;
+    padding: 5px 0px;
+  
+  
+  }
+  .Day2 a{
+      text-decoration: none;
+      color: black;
+  }
+  .Day3{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    
+    margin: 10px 5px;
+    cursor: pointer;
+    padding: 10px 0px;
+  
+  
+  }
+  .Day3 a{
+      text-decoration: none;
+      color: black;
+  }
+  .Day4{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+   
+    margin: 10px 5px;
+    cursor: pointer;
+    padding: 10px 0px;
+  
+  
+  }
+  .Day4 a{
+      text-decoration: none;
+      color: black;
+  }
+  .Day5{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    
+    margin: 10px 5px;
+    cursor: pointer;
+    padding: 10px 0px;
+  
+  
+  }
+  .Day5 a{
+      text-decoration: none;
+      color: black;
+  }
+  .Day6{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    
+    margin: 10px 5px;
+    cursor: pointer;
+    padding: 10px 0px;
+  
+  
+  }
+  .Day6 a{
+      text-decoration: none;
+      color: black;
+  }
+  .Day7{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    
+    margin: 5px 5px;
+    cursor: pointer;
+    padding: 5px 0px;
+  
+  
+  }
+  .Day7 a{
+      text-decoration: none;
+      color: black;
+  }
+  .Day8{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    
+    margin: 5px 5px;
+    cursor: pointer;
+    padding: 5px 0px;
+  
+  
+  }
+  .Day8 a{
+      text-decoration: none;
+      color: black;
+  }
+ 

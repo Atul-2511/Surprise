@@ -1,0 +1,40 @@
+*{margin: 2px;
+    padding: 2px;}
+body{
+    background-color:rgb(242, 57, 109);
+
+}
+
+.intro{
+font-style: italic;
+font-size: 135px;
+/* color: aliceblue; */
+color: #f7f5f5;
+text-align: center;
+margin-top: 100px;
+
+}
+.butn{
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color:rgb(242, 57, 109);
+    border: none;
+    color: azure;
+    
+    cursor: pointer;
+
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+    text-decoration: none;
+}
+.butn:hover {
+    background-color:rgb(172, 6, 6)} 
+    .butn a{
+        text-decoration: none;
+        color: azure;
+    }
